@@ -1,0 +1,148 @@
+body{
+    background-color:lightskyblue;
+
+}
+
+
+
+#player1{
+   
+    background-color:lightblue;
+    
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    height: 90%;
+    width: 50%;
+    
+    position: fixed;
+    z-index: 1;
+    top: 15%;
+    left: 0;
+    overflow-x: hidden; 
+    padding-top: 20px;
+
+    text-align: center;
+    
+}
+
+#player2{
+
+    background-color:lightblue;
+    
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    height: 90%;
+    width: 50%;
+    
+    position: fixed;
+    z-index: 1;
+    top: 15%;
+    overflow-x: hidden;  
+    padding-top: 20px;
+    right: 0;
+    
+    text-align: center;
+
+}
+
+/* #btn_p1{
+   margin-right: 60%;
+} */
+/* #g_scr_p1{
+    margin-right: 60%;
+ } */
+
+ #score_p1{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    height: 15%;
+    width: 15%;
+
+    margin-left: 40%;
+    margin-top :5%;
+
+    
+ }
+
+ #score_dis_p1{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: lightblue;
+    height: 40%;
+    width: 30%;
+
+    margin-left: 35%; 
+    
+ }
+
+ #gscore_dis_p1{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: lightblue;
+    height: 40%;
+    width: 30%;
+
+    margin-left: 35%; 
+    margin-top:10%;
+    
+ }
+
+ #g_score_p1{
+
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    height: 30%;
+    width: 50%;
+
+    margin-left: 25%;
+    margin-top :5%;
+
+ }
+
+ #score_p2{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    height: 15%;
+    width: 15%;
+
+    margin-left: 40%;
+    margin-top :5%;
+
+    
+ }
+
+ #score_dis_p2{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: lightblue;
+    height: 40%;
+    width: 30%;
+
+    margin-left: 35%; 
+    
+ }
+
+
+ #gscore_dis_p2{
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: lightblue;
+    height: 40%;
+    width: 30%;
+
+    margin-left: 35%; 
+    margin-top:10%;
+    
+ }
+
+ #g_score_p2{
+
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    height: 30%;
+    width: 50%;
+
+    margin-left: 25%;
+    margin-top :5%;
+
+ }
